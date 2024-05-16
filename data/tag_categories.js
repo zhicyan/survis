@@ -11,4 +11,7 @@ const userDefinedTagCategories = {
 	"supported_operations": {
 		"description": "supported memory updating operations"
 	},
+	"evaluation": {
+		"description": "evaluation used in the study"
+	},
 }
