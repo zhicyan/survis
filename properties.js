@@ -54,7 +54,7 @@ var editable = true;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'Digital Library for <b><a href="http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/eurovis14-star.pdf" target="_blank">A Survey on Large Language Models with Adaptive External Memories</a></b>',
+    html: 'Digital Library for A Survey on Large Language Models with Adaptive External Memories',
     id: ''
 };
 
